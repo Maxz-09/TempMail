@@ -81,5 +81,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-[Wanz Xploit]
+[Maxtream_09]
 - GitHub: [@Maxz-09](https://github.com/Maxz-09)
